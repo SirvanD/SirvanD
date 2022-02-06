@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **SirvanD/SirvanD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,13 +17,13 @@ Here are some ideas to get you started:
 # Hi 👋, I'm Sirvan!
 
 I'm a Junior Software Engineer who enjoys coding his ideas all the way to the browsers!
-
+<!-- 
 - I live in Sydney, 🇦🇺
 - 🐱 Luna , Coffee, Gelato
-- When I'm not coding, you'll find me cycling, hiking or pool swimming 
+- When I'm not coding, you'll find me cycling, hiking or pool swimming
+ -->
 
-
-## ⭐️ GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/SirvanD">
