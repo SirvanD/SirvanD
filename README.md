@@ -27,12 +27,12 @@ I'm a Junior Software Engineer who enjoys coding his ideas all the way to the br
 
 <p align="center">
   <a href="https://github.com/SirvanD">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SirvanD&theme=buefy&count_private=true&show_icons=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SirvanD&theme=swift&count_private=true&show_icons=true&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SirvanD&theme=buefy&layout=compact&langs_count=6"/>
   </a>
 </p>
 
-### Connect 🔗
+### Connect
 
 <p align="center">
   <a href="https://www.sirvan.dev"><img src="https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge"/></a>
