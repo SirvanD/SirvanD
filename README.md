@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 ### Hi, I'm Sirvan!
 
 I'm a Junior Software Engineer who enjoys coding his ideas all the way to the browsers!
- 
+<!--  
 - I live in Sydney, 🇦🇺
 - 🐱 Luna , Coffee, Gelato
 - 🖤 Podcasts: Syntax.FM, This Paranormal Life, Stuff you should know and more
-- When I'm not coding, you'll find me cycling, hiking or pool swimming
+- When I'm not coding, you'll find me cycling, hiking or pool swimming -->
 
 
 ### GitHub Stats
