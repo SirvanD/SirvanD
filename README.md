@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋, I'm Sirvan!
+### Hi 👋, I'm Sirvan!
 
 I'm a Junior Software Engineer who enjoys coding his ideas all the way to the browsers!
 <!-- 
@@ -23,7 +23,7 @@ I'm a Junior Software Engineer who enjoys coding his ideas all the way to the br
 - When I'm not coding, you'll find me cycling, hiking or pool swimming
  -->
 
-## GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <a href="https://github.com/SirvanD">
@@ -32,7 +32,7 @@ I'm a Junior Software Engineer who enjoys coding his ideas all the way to the br
   </a>
 </p>
 
-## Connect
+### Connect
 
 <p align="center">
   <a href="https://www.sirvan.dev"><img src="https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge"/></a>
