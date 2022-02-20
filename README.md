@@ -36,7 +36,7 @@ I'm a Software Engineer who enjoys coding his ideas all the way to the browsers!
 ### Connect
 
 <p align="center">
-  <a href="https://www.sirvan.dev"><img src="https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge"/></a>
+  <a href="https://www.sirvan.dev"><img src="https://img.shields.io/badge/-Website-yellow?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/sirvan-doukchi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/SirvanDoukchi"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.facebook.com/SirvanDoukchi"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
