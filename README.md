@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Sirvan!
 
-I'm a Junior Software Engineer who enjoys coding his ideas all the way to the browsers!
+I'm a Software Engineer who enjoys coding his ideas all the way to the browsers!
 <!--  
 - I live in Sydney, 🇦🇺
 - 🐱 Luna , Coffee, Gelato
