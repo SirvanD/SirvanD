@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### Hi, I'm Sirvan!
 
 I'm a Software Engineer who enjoys coding his ideas all the way to the browsers!
+My mantra is to live at the present, keep it simple and do what makes you happy . 
 <!--  
 - I live in Sydney, 🇦🇺
 - 🐱 Luna , Coffee, Gelato
