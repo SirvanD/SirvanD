@@ -1,5 +1,5 @@
 
-- 👨‍💻 Projects available at [https://www.sirvan.dev](https://www.sirvan.dev)
+- 👨‍💻 Personal projects available at [https://www.sirvan.dev](https://www.sirvan.dev)
 
 - 📫 How to reach me **sirvansh@gmail.com**
 
